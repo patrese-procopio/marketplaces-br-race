@@ -1,0 +1,7 @@
+Mercado Livre: #FFE600
+Shopee: #FFB4A2
+Amazon: #232F3E
+Temu: #FB7701
+Shein: #000000
+Magalu: #0086FF
+AliExpress: #E62E04
