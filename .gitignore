@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# PDFs da Conversion: material com cadastro, não redistribuímos.
+# Baixe em https://www.conversion.com.br/estudos-e-pesquisas/relatorio-setores-ecommerce
+*.pdf
+
+# Vídeos brutos de gravação
+*.mp4
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
